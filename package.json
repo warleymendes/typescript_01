@@ -1,0 +1,17 @@
+{
+  "name": "ativdade01",
+  "version": "1.0.0",
+  "description": "Atividade de TypeScript",
+  "author": "Marta",
+  "license": "ISC",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node ./src/index.ts"
+  },
+  
+  "dependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
