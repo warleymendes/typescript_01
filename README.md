@@ -4,7 +4,7 @@ Baixe o código e na pasta rode o comando:
 
 npm install
 
-Para roder o programa:
+Para rodar o programa:
 
 npm rum start
 
